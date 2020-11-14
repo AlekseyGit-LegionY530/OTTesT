@@ -1,0 +1,13 @@
+E:\Project\OTTest\OTTesT\TesTOT\bin\Debug\TesTOT.exe.config
+E:\Project\OTTest\OTTesT\TesTOT\bin\Debug\TesTOT.exe
+E:\Project\OTTest\OTTesT\TesTOT\bin\Debug\TesTOT.pdb
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.csprojAssemblyReference.cache
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.Form1.resources
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.Properties.Resources.resources
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.csproj.GenerateResource.cache
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.csproj.CoreCompileInputs.cache
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.exe
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.pdb
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.Form2.resources
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.Form3.resources
+E:\Project\OTTest\OTTesT\TesTOT\obj\Debug\TesTOT.Form4.resources
